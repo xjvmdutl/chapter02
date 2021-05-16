@@ -1,4 +1,4 @@
-package ch01;
+package ch02;
 
 //class안에 클래스 만들수 있다.
 class Abc{//단 public 키워드를 가진 클래스는 하나여야만 한다.
