@@ -19,6 +19,8 @@ public class StudentTest {
 		studentKim.studentName="Kim";
 		studentKim.address="경기도 성남시";
 		studentKim.showStudentInfo();
+		
+		
 	}
 
 }
